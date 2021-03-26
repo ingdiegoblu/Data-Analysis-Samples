@@ -1,5 +1,5 @@
 To Run This Code
-You must have install:
+You must have installed:
 - Selenium
-- ChromeDriver: https://chromedriver.chromium.org/getting-started
+- ChromeDriver: https://chromedriver.chromium.org/getting-started, download
 https://chromedriver.chromium.org/downloads
